@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11474272",
+      "name": "editor",
+      "font_class": "editor",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "14237474",
+      "name": "大雁塔",
+      "font_class": "dayanta",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "14237475",
+      "name": "山东",
+      "font_class": "shandong",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "14237476",
+      "name": "安康",
+      "font_class": "ankang",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "14237477",
+      "name": "海口",
+      "font_class": "haikou",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "14237478",
+      "name": "山西",
+      "font_class": "shanxi",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "14237479",
+      "name": "南京",
+      "font_class": "nanjing",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "14237480",
+      "name": "深圳",
+      "font_class": "shenzhen",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "14237481",
+      "name": "广州",
+      "font_class": "guangzhou",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14237482",
+      "name": "辽宁",
+      "font_class": "liaoning",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14237483",
+      "name": "香港",
+      "font_class": "xianggang",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
